@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 1046px;
+  top: 553px;
+  width: 24px;
+  height: 24px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle7 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #1e1e1e4d;
+  outline-offset: -1px;
+  border-radius: 2px;
+}

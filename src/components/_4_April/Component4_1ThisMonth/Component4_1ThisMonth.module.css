@@ -1,0 +1,38 @@
+.root {
+  position: absolute;
+  left: 10px;
+  top: 14px;
+  width: 100px;
+  height: 80px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 0.5px #000;
+  outline-offset: 0px;
+}
+.rectangle2 {
+  z-index: 0;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #fff;
+}
+._1 {
+  color: #1e1e1e;
+  font-size: 8px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 48%;
+  right: 48%;
+  top: 0;
+  bottom: 87.5%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

@@ -1,0 +1,50 @@
+.root {
+  position: absolute;
+  left: 48px;
+  top: 29px;
+  width: 266px;
+  height: 57px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.todo {
+  color: #000;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3.3835%;
+  right: 84.2105%;
+  top: 0;
+  bottom: 66.6667%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle5 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 43.8596%;
+  bottom: 0;
+  outline: solid 1px #1e1e1e80;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.input {
+  color: #00000080;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3.3835%;
+  right: 83.0827%;
+  top: 54.386%;
+  bottom: 12.2807%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

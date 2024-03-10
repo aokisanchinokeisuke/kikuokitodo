@@ -1,0 +1,831 @@
+.component42.component42 {
+  left: 933px;
+  top: 126px;
+}
+.component41.component41 {
+  left: 933px;
+  top: 55px;
+}
+.button2.button2 {
+  left: 1125px;
+  top: 762px;
+  background-color: #506fdf;
+}
+.button {
+  color: #fff;
+  font-size: 16px;
+  line-height: 10px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 30px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list.list {
+  left: 815px;
+  top: 305px;
+}
+.toDoContent {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list2.list2 {
+  left: 814px;
+  top: 460px;
+}
+.toDoContent2 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD2 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H2 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list3.list3 {
+  left: 814px;
+  top: 615px;
+}
+.toDoContent3 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD3 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H3 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list4.list4 {
+  left: 814px;
+  top: 398px;
+}
+.toDoContent4 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD4 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H4 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list5.list5 {
+  left: 813px;
+  top: 553px;
+}
+.toDoContent5 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD5 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H5 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list6.list6 {
+  left: 813px;
+  top: 708px;
+}
+.toDoContent6 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD6 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H6 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list7.list7 {
+  left: 815px;
+  top: 336px;
+}
+.toDoContent7 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD7 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H7 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list8.list8 {
+  left: 814px;
+  top: 491px;
+}
+.toDoContent8 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD8 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H8 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list9.list9 {
+  left: 814px;
+  top: 646px;
+}
+.toDoContent9 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD9 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H9 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list10.list10 {
+  left: 814px;
+  top: 429px;
+}
+.toDoContent10 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD10 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H10 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list11.list11 {
+  left: 813px;
+  top: 584px;
+}
+.toDoContent11 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD11 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H11 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list12.list12 {
+  left: 815px;
+  top: 367px;
+}
+.toDoContent12 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD12 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H12 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list13.list13 {
+  left: 814px;
+  top: 522px;
+}
+.toDoContent13 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD13 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H13 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.list14.list14 {
+  left: 814px;
+  top: 677px;
+}
+.toDoContent14 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 10.804%;
+  right: 65.5779%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.mMDD14 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.0553%;
+  right: 25.6281%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.H14 {
+  color: #0000004d;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 95.7286%;
+  right: 0.2513%;
+  top: 8.3333%;
+  bottom: 12.5%;
+  width: min-content;
+  height: min-content;
+  text-align: end;
+  align-items: end;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component43.component43 {
+  left: 933px;
+  top: 197px;
+}
+._42._42 {
+  left: 550px;
+  top: -24px;
+}
+._4 {
+  color: #0000004d;
+  font-size: 250px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: -4.4199%;
+  right: -4.4199%;
+  top: 0;
+  bottom: 16.6667%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.day.day {
+  position: absolute;
+  left: 31px;
+  top: 251px;
+}
+.button3.button3 {
+  left: 1128px;
+  top: 227px;
+}
+.root {
+  position: relative;
+  width: 1280px;
+  height: 832px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle11 {
+  position: absolute;
+  left: 766px;
+  top: 318px;
+  width: 514px;
+  height: 514px;
+  background-color: #fff;
+}
+.mM {
+  color: #000;
+  font-size: 64px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 64px;
+  top: 154px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.polygon1 {
+  position: absolute;
+  left: 420px;
+  top: 112px;
+  width: 60px;
+  height: 60px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.polygon2 {
+  position: absolute;
+  left: 788px;
+  top: 112px;
+  width: 60px;
+  height: 60px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}

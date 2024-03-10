@@ -1,0 +1,52 @@
+.root {
+  position: absolute;
+  left: 48px;
+  top: 102px;
+  width: 266px;
+  height: 57px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.term {
+  color: #000;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3.3835%;
+  right: 83.4586%;
+  top: 0;
+  bottom: 66.6667%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle6 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 43.8596%;
+  bottom: 0;
+  outline: solid 1px #1e1e1e80;
+  outline-offset: -1px;
+  border-radius: 5px;
+  background-color: #fff;
+}
+.yYYYMMDD {
+  color: #00000080;
+  font-size: 16px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3.3835%;
+  right: 60.1504%;
+  top: 54.386%;
+  bottom: 12.2807%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

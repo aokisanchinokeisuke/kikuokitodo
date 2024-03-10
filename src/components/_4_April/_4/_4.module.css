@@ -1,0 +1,26 @@
+.root {
+  position: absolute;
+  left: 110px;
+  top: 40px;
+  width: 181px;
+  height: 360px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+._4 {
+  color: #0000004d;
+  font-size: 250px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 8.2873%;
+  right: 8.2873%;
+  top: 0;
+  bottom: 16.6667%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

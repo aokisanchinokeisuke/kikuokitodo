@@ -1,0 +1,172 @@
+.component10.component10 {
+  left: 85.7143%;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.mon {
+  color: #d9d9d9;
+  font-size: 24px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 33%;
+  right: 32%;
+  top: 45%;
+  bottom: 11.0606%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component11.component11 {
+  left: 71.4286%;
+  right: 14.2857%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.mon2 {
+  color: #d9d9d9;
+  font-size: 24px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 36%;
+  right: 36%;
+  top: 45%;
+  bottom: 11.0606%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component9.component9 {
+  left: 57.1429%;
+  right: 28.5714%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.mon3 {
+  color: #d9d9d9;
+  font-size: 24px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 30%;
+  right: 30%;
+  top: 45%;
+  bottom: 11.0606%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component8.component8 {
+  left: 42.8571%;
+  right: 42.8571%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.mon4 {
+  color: #d9d9d9;
+  font-size: 24px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 28%;
+  right: 27%;
+  top: 45%;
+  bottom: 11.0606%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component7.component7 {
+  left: 28.5714%;
+  right: 57.1429%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.mon5 {
+  color: #d9d9d9;
+  font-size: 24px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 32%;
+  right: 31%;
+  top: 45%;
+  bottom: 11.0606%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component5.component5 {
+  left: 0;
+  right: 85.7143%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.mon6 {
+  color: #d9d9d9;
+  font-size: 24px;
+  font-family: Itim, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 30%;
+  right: 29%;
+  top: 45%;
+  bottom: 11.0606%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.component6.component6 {
+  left: 14.2857%;
+  right: 71.4286%;
+  top: 0;
+  bottom: 0;
+  width: initial;
+  height: initial;
+}
+.root {
+  position: relative;
+  width: 700px;
+  height: 66px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #303272;
+}

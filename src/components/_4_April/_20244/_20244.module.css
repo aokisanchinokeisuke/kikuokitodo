@@ -1,0 +1,55 @@
+.janualyAugust.janualyAugust {
+  position: absolute;
+  left: -501px;
+  top: 65px;
+}
+.janualyAugust2.janualyAugust2 {
+  position: absolute;
+  left: -1901px;
+  top: 225px;
+}
+.janualyAugust3.janualyAugust3 {
+  position: absolute;
+  left: -2601px;
+  top: 305px;
+}
+.janualyAugust4.janualyAugust4 {
+  position: absolute;
+  left: -1201px;
+  top: 145px;
+}
+.janualyAugust5.janualyAugust5 {
+  position: absolute;
+  left: -3301px;
+  top: 385px;
+  overflow: hidden;
+}
+.janualyAugust6.janualyAugust6 {
+  position: absolute;
+  left: -4001px;
+  top: 465px;
+}
+.day.day {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.root {
+  position: relative;
+  width: 700px;
+  height: 546px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #000;
+}
+._20244 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
